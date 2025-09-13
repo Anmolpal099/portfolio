@@ -179,7 +179,7 @@ class ModernPortfolio {
         
         // Observe sections and cards
         const animateElements = document.querySelectorAll(
-            '.glass-card, .section-header, .skill-card, .project-card, .stat-item'
+            '.glass-card, .section-header, .skill-card, .project-card, .stat-item, .timeline-item, .blog-card, .testimonial-card, .education-card'
         );
         
         animateElements.forEach(element => {
