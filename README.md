@@ -1,6 +1,6 @@
-# My Portfolio Website
+# Anmol Pal's Portfolio Website
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript to showcase my projects and skills.
+A modern, responsive portfolio website built with HTML, CSS, and JavaScript showcasing Anmol Pal's projects and skills as a Full-Stack Developer & Designer.
 
 ## Features
 
@@ -106,10 +106,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Replace this section with your actual contact information:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+Contact Information:
+- Email: anmolpal156@gmail.com
+- Phone: +977 974-284-6173
+- Location: Kanchanpur, Bheemdatt-18, Goberiya, Nepal
+- LinkedIn: [Anmol Pal's LinkedIn Profile](https://linkedin.com/in/anmolpal)
+- GitHub: [Anmol Pal's GitHub](https://github.com/anmolpal)
 
 ---
 
